@@ -10,16 +10,16 @@ Recolecta → Puntúa → Brief → Borrador → Aprobás → Programa
 |---|---|---|
 | Recolecta | Routine `01-senales` | `marketing-os/research/trend-map.md` |
 | Puntúa | Routine `01-senales` | Columna "Puntaje" de trend-map |
-| Brief | Routine `02-borradores` | Notion, estado "Brief" |
-| Borrador | Routine `02-borradores` + skills | Notion, estado "Borrador" |
-| Aprobás | **Vero** | Notion, estado "Aprobado" |
-| Programa | Vero (o Routine cuando haya scheduler conectado) | Buffer / Metricool |
+| Brief | Routine `02-borradores` | Planilla, estado "Brief" |
+| Borrador | Routine `02-borradores` + skills | Planilla, estado "Borrador" |
+| Aprobás | **Vero** | Planilla, estado "Aprobado" |
+| Programa | Vero | Content Planner de Canva Pro (IG carruseles y reels: a mano) |
 
 ## Control
-- **Cola de aprobación:** vista de Notion filtrada por estado = Borrador.
+- **Cola de aprobación:** filtro de la pestaña Calendario por estado = Borrador.
 - **Log de actividad:** `orchestrator/activity-log.md` (cada Routine agrega una línea).
 - **Botón de apagado:** desactivar las Routines desde claude.ai/code → Routines, o pedirle a Claude que las pause.
 
 ## Cómo activar las Routines
 Pedile a Claude en una sesión de este repo: "activá las routines del orquestador".
-Los prompts están en `orchestrator/routines/`. Necesitan los conectores Notion y Windsor.ai.
+Los prompts están en `orchestrator/routines/`. Necesitan los conectores Google Drive y Windsor.ai.
