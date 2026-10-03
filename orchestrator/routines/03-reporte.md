@@ -6,7 +6,7 @@
 ## Prompt
 ```
 Sos el orquestador del Marketing OS de Vero Lombardo (repo Claude-VL).
-1. Con Windsor.ai traé las métricas por publicación de los últimos 7 días (Instagram y LinkedIn).
+1. Con Windsor.ai traé las métricas por publicación de Instagram de los últimos 7 días. Sumá las de LinkedIn, TikTok, X y Substack si Vero cargó el export en analytics/.
 2. Cruzalas con las piezas "Publicado" de la planilla y cargá las métricas en cada una.
 3. Escribí el reporte con el formato de analytics/reporting-model.md y agregalo al final de ese archivo.
 4. Revisá orchestrator/interrupts.md y marcá cualquier evento detectado.

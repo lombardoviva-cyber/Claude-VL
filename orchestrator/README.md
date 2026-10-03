@@ -13,7 +13,7 @@ Recolecta → Puntúa → Brief → Borrador → Aprobás → Programa
 | Brief | Routine `02-borradores` | Planilla, estado "Brief" |
 | Borrador | Routine `02-borradores` + skills | Planilla, estado "Borrador" |
 | Aprobás | **Vero** | Planilla, estado "Aprobado" |
-| Programa | Vero | Content Planner de Canva Pro (IG carruseles y reels: a mano) |
+| Programa | Vero | Canva Pro (LinkedIn) · Buffer gratis (IG, TikTok, X) · Substack a mano |
 
 ## Control
 - **Cola de aprobación:** filtro de la pestaña Calendario por estado = Borrador.
@@ -22,4 +22,4 @@ Recolecta → Puntúa → Brief → Borrador → Aprobás → Programa
 
 ## Cómo activar las Routines
 Pedile a Claude en una sesión de este repo: "activá las routines del orquestador".
-Los prompts están en `orchestrator/routines/`. Necesitan los conectores Google Drive y Windsor.ai.
+Los prompts están en `orchestrator/routines/` (01 señales, 02 borradores, 03 reporte, 04 PR). Necesitan los conectores Google Drive y Windsor.ai.
