@@ -22,4 +22,4 @@ Recolecta → Puntúa → Brief → Borrador → Aprobás → Programa
 
 ## Cómo activar las Routines
 Pedile a Claude en una sesión de este repo: "activá las routines del orquestador".
-Los prompts están en `orchestrator/routines/` (01 señales, 02 borradores, 03 reporte, 04 PR). Necesitan los conectores Google Drive y Windsor.ai.
+Los prompts están en `orchestrator/routines/` (01 señales, 02 borradores, 03 reporte, 04 PR, 05 lote de Instagram). Necesitan los conectores Google Drive y Windsor.ai.
