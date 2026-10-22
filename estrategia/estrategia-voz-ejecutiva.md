@@ -86,7 +86,7 @@ Fuente: `research/auditoria-instagram-chrome-2026-10-22.md`.
 8. **En español, la competencia es mínima:** Cada Camino (13K) y parte de Diandra.
 
 **Cambios que esto produce en la estrategia:**
-- **Mezcla de contenido:** por cada 3 piezas de expertise, 1 de identidad o escena personal (ejecutiva en la vida real, ser subestimada, humor de oficina). Lo personal trae alcance; lo experto trae diagnósticos.
+- **Mezcla de contenido (definido con Vero):** el **humor ejecutivo** es la voz de la cuenta. Por semana, 2 piezas con humor (escena reconocible → remate → lección de LinkedIn) y 1 o 2 de expertise para guardar. Tono: el criterio de Cada Camino más el humor de identidad, nada sublime ni inspiracional. Guía completa y banco de ideas en `instagram/humor-ejecutivo.md`.
 - **Se suma un producto de entrada** entre el diagnóstico gratis y el programa: plantilla o guía "Tu perfil de autoridad en LinkedIn" a US$27–47 `[supuesto]`. Filtra a quien paga y financia anuncios.
 - **El programa se ancla en resultados de reconocimiento,** al estilo de ICON: escenarios, prensa, ranking. El precio de referencia en español arranca en 599–689 €.
 

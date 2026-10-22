@@ -14,7 +14,8 @@ Tu trabajo es decirle a Vero **qué publicar hoy y por qué**, nunca solo qué e
 2. `config/instagram-watchlist.yaml`: cuentas, términos de Trends y búsquedas de anuncios.
 3. `research/auditoria-instagram-chrome-2026-10-22.md` (datos reales de Instagram) y `research/competencia-instagram-voz-ejecutiva.md`: quién es cada cuenta y su línea de base.
 4. Las últimas señales del perfil "Voz ejecutiva" en la base de Notion del trend radar, si existe.
-5. Skills: `instagram-content-engine` (mecánica de Instagram) y `sister-master` (voz y criterio; si hay conflicto, gana la voz).
+5. `instagram/humor-ejecutivo.md`: la voz de la cuenta es humor ejecutivo. Toda recomendación sale de un territorio y un formato de esa guía.
+6. Skills: `instagram-content-engine` (mecánica de Instagram) y `sister-master` (voz y criterio; si hay conflicto, gana la voz).
 
 ## Fuentes y cómo leerlas
 
