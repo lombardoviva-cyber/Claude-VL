@@ -1,0 +1,49 @@
+# Cuentas de referencia que vigila el agente mano-derecha.
+# role: competidora | formato | brand-deals | adyacente | avatar
+# Detalle de cada una en research/competencia-instagram-voz-ejecutiva.md
+
+accounts:
+  - {handle: molly.stovold, role: formato, note: "dueña probable del reel Dc_hLhkMv40; confirmar handle"}
+  - {handle: saakshiityaagii, role: formato}
+  - {handle: diandraescobar, role: competidora}
+  - {handle: charlotte.arsenault, role: formato}
+  - {handle: prettylittlemarketer, role: formato}
+  - {handle: womanceomindset, role: formato}
+  - {handle: thevaleriaramirez, role: adyacente}
+  - {handle: artofinfluenceco, role: formato}
+  - {handle: britcrowther, role: adyacente, note: "confirmar que es la cuenta correcta"}
+  - {handle: renee_warren, role: adyacente}
+  - {handle: iamnatalie, role: adyacente}
+  - {handle: itsamygolding, role: avatar}
+  - {handle: cadacamino, role: competidora, note: "única en español"}
+  - {handle: adrianabubori, role: formato}
+  - {handle: itsmeganlieu, role: brand-deals}
+  - {handle: ai_herway, role: adyacente}
+  - {handle: polinabatee, role: formato}
+  - {handle: angcatalan, role: adyacente}
+  - {handle: byaditimishra, role: brand-deals}
+  - {handle: jeanelleteves, role: competidora, note: "formato más cercano: Work Tip Wednesday"}
+  - {handle: nicolejizhar, role: avatar}
+  - {handle: belindafurneauxharris, role: adyacente}
+  - {handle: itsvicchang, role: formato}
+  - {handle: mirandadoesbrands, role: formato}
+  - {handle: nataliedawson, role: adyacente}
+  - {handle: itshannahzhang, role: brand-deals}
+  - {handle: marialeden, role: competidora}
+
+# Términos para Google Trends (por país: AR, MX, ES, CO, CL)
+trends_terms:
+  - LinkedIn
+  - marca personal
+  - perfil de LinkedIn
+  - Top Voice LinkedIn
+  - cómo ser speaker
+  - síndrome del impostor
+  - liderazgo femenino
+
+# Búsquedas en la Biblioteca de anuncios de Meta
+ad_library_queries:
+  - voz ejecutiva
+  - posicionamiento ejecutivo
+  - marca personal LinkedIn
+  - LinkedIn autoridad

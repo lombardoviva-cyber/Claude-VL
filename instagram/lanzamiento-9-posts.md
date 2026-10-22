@@ -17,30 +17,30 @@ Cuenta: voz ejecutiva en LinkedIn para ejecutivas. Ver `perfil-voz-ejecutiva.md`
 
 ---
 
-## 1 · Reel · Manifiesto
-**"LinkedIn no es para buscar trabajo (si sos ejecutiva)"** · Fijado 3
+## 1 · Reel · Escena
+**"Esa persona que sabe la mitad que vos"** · Fijado 3
 
-**Texto en pantalla (0–2 s):** LinkedIn no es para buscar trabajo.
+> v2: se reemplazó el gancho "LinkedIn no es para buscar trabajo". Entraba por una negación y la clienta no se identificaba. Ver `estrategia/estrategia-voz-ejecutiva.md`, sección 3.
+
+**Texto en pantalla (0–2 s):** Sabe la mitad que vos. La invitan a todo.
 
 **Guion (cara a cámara, ~35 s):**
-> LinkedIn no es para buscar trabajo. Por lo menos, no si ya sos ejecutiva.
-> Te vendieron que LinkedIn es actualizar el CV, poner "open to work" y mandar mensajes. Eso es para cuando necesitás algo.
-> Yo te hablo de lo otro: usarlo para que te conozcan por lo que pensás. Para que te llamen a hablar en un evento, para que te citen, para que tu nombre aparezca cuando alguien busca a quien sabe de tu tema.
-> Eso es voz ejecutiva. No es vender ni buscar trabajo: es ser referente.
-> De eso va esta cuenta. Si sos ejecutiva y sabés mucho más de lo que se ve en tu perfil, quedate.
+> Conocés a alguien que sabe la mitad que vos y la invitan a todos los paneles.
+> No es que sea mejor. Es que se la ve.
+> Vos tenés veinte años de criterio guardados en reuniones, en mails, en decisiones que nadie ve afuera de tu empresa.
+> LinkedIn es donde ese criterio se vuelve visible: que te citen, que te inviten a hablar, que cuando alguien busca a quien sabe de tu tema, aparezcas vos.
+> Eso es voz ejecutiva. Y se construye con método.
+> De eso va esta cuenta. Quedate.
 
 **Caption:**
 ```
-LinkedIn para ejecutivas no es buscar trabajo. Es construir voz.
+LinkedIn para ejecutivas: por qué la invitan a ella y no a vos.
 
-Esta cuenta es para mujeres que ya tienen cargo, trayectoria y criterio, y quieren que eso se vea: que las inviten a hablar, que las citen, que su nombre aparezca cuando alguien busca a quien sabe de su tema.
+No es que sepa más. Es que su criterio se ve, y el tuyo está guardado en reuniones y decisiones que nadie ve afuera de tu empresa.
 
-Acá no vas a encontrar:
-→ cómo armar tu CV
-→ cómo prospectar clientes
-→ trucos para "hackear" el algoritmo
+Esta cuenta es para ejecutivas que quieren que eso cambie: que las inviten a hablar, que las citen, que su nombre aparezca cuando alguien busca a quien sabe de su tema.
 
-Vas a encontrar cómo se construye autoridad en LinkedIn, desde adentro. Yo vivo en LinkedIn todos los días y llegué al #1 mundial de Favikon en Employer Branding.
+Acá vas a encontrar cómo se construye autoridad en LinkedIn, desde adentro. Yo vivo en LinkedIn todos los días y llegué al #1 mundial de Favikon en Employer Branding.
 
 Seguime si querés que tu voz pese tanto como tu cargo.
 ```
