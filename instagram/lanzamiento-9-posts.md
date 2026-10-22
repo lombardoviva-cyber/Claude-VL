@@ -1,5 +1,7 @@
 # Los 9 posts de lanzamiento
 
+> Reemplazado por `semana-1.md` (moldes de reels virales). Este archivo queda como banco de ideas.
+
 Cuenta: voz ejecutiva en LinkedIn para ejecutivas. Ver `perfil-voz-ejecutiva.md`.
 
 **Orden de publicación:** del 1 al 9, en 7 a 10 días. Instagram muestra la grilla al revés, así que el 1 queda abajo y el 9 arriba. Después de publicar, fijá el 3, el 2 y el 1.
