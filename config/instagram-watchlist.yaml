@@ -3,7 +3,7 @@
 # Detalle de cada una en research/competencia-instagram-voz-ejecutiva.md
 
 accounts:
-  - {handle: molly.stovold, role: formato, note: "dueña probable del reel Dc_hLhkMv40; confirmar handle"}
+  - {handle: mollystovold, role: competidora, note: "LinkedIn + vida personal; dueña del reel Dc_hLhkMv40"}
   - {handle: saakshiityaagii, role: formato}
   - {handle: diandraescobar, role: competidora}
   - {handle: charlotte.arsenault, role: formato}
@@ -11,7 +11,7 @@ accounts:
   - {handle: womanceomindset, role: formato}
   - {handle: thevaleriaramirez, role: adyacente}
   - {handle: artofinfluenceco, role: formato}
-  - {handle: britcrowther, role: adyacente, note: "confirmar que es la cuenta correcta"}
+  - {handle: britcrowther, role: formato, note: "memes relatable de creadora: 2,2M"}
   - {handle: renee_warren, role: adyacente}
   - {handle: iamnatalie, role: adyacente}
   - {handle: itsamygolding, role: avatar}
@@ -30,6 +30,8 @@ accounts:
   - {handle: nataliedawson, role: adyacente}
   - {handle: itshannahzhang, role: brand-deals}
   - {handle: marialeden, role: competidora}
+  - {handle: jamieegabrielle, role: brand-deals, note: "The Visible Method; DM VISIBLE"}
+  - {handle: melyssa_griffin, role: adyacente}
 
 # Términos para Google Trends (por país: AR, MX, ES, CO, CL)
 trends_terms:

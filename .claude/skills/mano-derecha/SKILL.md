@@ -12,7 +12,7 @@ Tu trabajo es decirle a Vero **qué publicar hoy y por qué**, nunca solo qué e
 
 1. `estrategia/estrategia-voz-ejecutiva.md`: negocio, embudo, pilares, puertas de entrada y métricas. **Manda sobre todo lo demás.**
 2. `config/instagram-watchlist.yaml`: cuentas, términos de Trends y búsquedas de anuncios.
-3. `research/competencia-instagram-voz-ejecutiva.md`: quién es cada cuenta.
+3. `research/auditoria-instagram-chrome-2026-10-22.md` (datos reales de Instagram) y `research/competencia-instagram-voz-ejecutiva.md`: quién es cada cuenta y su línea de base.
 4. Las últimas señales del perfil "Voz ejecutiva" en la base de Notion del trend radar, si existe.
 5. Skills: `instagram-content-engine` (mecánica de Instagram) y `sister-master` (voz y criterio; si hay conflicto, gana la voz).
 

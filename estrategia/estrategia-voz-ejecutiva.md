@@ -66,6 +66,30 @@ Vero tiene bases propias. Antes de usarlas:
 4. Un caso: antes y después.
 5. Invitación a la masterclass.
 
+## 2b. Qué dice la auditoría real de las 29 cuentas (Chrome, 22/10/2026)
+
+Fuente: `research/auditoria-instagram-chrome-2026-10-22.md`.
+
+1. **El reel más visto casi nunca es el educativo.** En la mayoría, el top es personal o de humor de identidad ("eldest daughter" de Jeanelle con 14,4M y de Nicole con 11M; el embarazo de Molly con 9,1M). El contenido de expertise rinde bastante menos.
+2. **El que mejor encaja con nuestra clienta:** Nici Sweaney, 7M. *"'Qué suerte que tu marido es exitoso'"*: por qué ella viaja en business, siendo la única mujer data scientist. Es una escena de **ser subestimada como profesional**, contada en primera persona. Ese es el molde para nuestros reels de escena.
+3. **LinkedIn también rinde con humor y con historia:**
+   - Sakshi Tyagi, 2M: "How to Aura-Farm on LinkedIn", sátira de la jerga de LinkedIn.
+   - Diandra Escobar, 354K, en español: aparecer en un ranking junto a presidentes de empresas gracias a LinkedIn. **Valida el reel del #1 de Favikon.**
+   - Maria Leden, 202K: "LinkedIn no tiene la mejor reputación… pero un CV solo no alcanza".
+4. **LinkedIn mismo paga a creadoras:** el reel de Hannah Zhang con 11M es una alianza con LinkedIn. Los brand deals se concentran en carrera + IA (ChatGPT, Claude, OpenAI, Gamma, Similarweb, Semrush, Zoom). Eso abre la puerta a brand deals en el Instagram de Vero, no solo en LinkedIn.
+5. **La oferta más parecida a la nuestra es la de Renée Warren (ICON):** un año de coaching de visibilidad, que te contraten para escenarios y podcasts, con garantía ("si no te bookean en 6 meses, 1:1"). Se vende por DM "COACH", sin precio público.
+6. **Precios reales observados:**
+   - Productos de entrada: US$12–99 (guías, bootcamps).
+   - 1:1: US$105–450 por sesión.
+   - Programas: Cada Camino, 6 semanas, 599–689 € (**referencia en español**); mastermind de Valeria Ramírez, AUD 4.997 para 15 personas; sprints B2B de US$8.500–24.000.
+7. **CTA dominante:** "comentá X" o "DM X" (VISIBLE, COACH, LINKEDIN), que lleva a un lead magnet, después a un producto de bajo precio y después a uno de alto precio.
+8. **En español, la competencia es mínima:** Cada Camino (13K) y parte de Diandra.
+
+**Cambios que esto produce en la estrategia:**
+- **Mezcla de contenido:** por cada 3 piezas de expertise, 1 de identidad o escena personal (ejecutiva en la vida real, ser subestimada, humor de oficina). Lo personal trae alcance; lo experto trae diagnósticos.
+- **Se suma un producto de entrada** entre el diagnóstico gratis y el programa: plantilla o guía "Tu perfil de autoridad en LinkedIn" a US$27–47 `[supuesto]`. Filtra a quien paga y financia anuncios.
+- **El programa se ancla en resultados de reconocimiento,** al estilo de ICON: escenarios, prensa, ranking. El precio de referencia en español arranca en 599–689 €.
+
 ## 3. Estrategia de contenido en Instagram
 
 ### El problema de los ganchos
@@ -87,6 +111,9 @@ Además, a una ejecutiva sí le importan las oportunidades. Lo que no quiere es 
 | **Miedo** | "Lo que piensa tu CEO cuando ve tu perfil de LinkedIn." |
 | **Error** | "3 cosas que hacen las ejecutivas en LinkedIn que las hacen ver junior." |
 | **Contraste** | "Ejecutiva que publica vs. ejecutiva que no: el mismo currículum, otra conversación." |
+| **Subestimada** (molde Nici Sweaney, 7M) | "'Qué bien que tu jefe te deja venir a estos eventos.' Yo era la speaker." |
+| **Sátira de LinkedIn** (molde Sakshi Tyagi, 2M) | "Diccionario de LinkedIn para ejecutivas: 'humilde y agradecida' = …" |
+| **Ranking** (molde Diandra Escobar, 354K en español) | "Salí #1 del mundo en un ranking al lado de CEOs globales. Así fue." |
 
 ### Formatos a los que nos subimos
 
