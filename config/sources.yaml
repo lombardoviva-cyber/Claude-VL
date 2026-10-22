@@ -1,0 +1,40 @@
+# The sources the daily scan reads. Replace these examples with your own.
+#
+# type:
+#   rss     - a feed URL, read directly
+#   site    - a page that lists recent posts (blog index, changelog, newsroom)
+#   search  - a web search query, run fresh every scan
+#   inbox   - a Gmail search query (needs the Gmail connector), for newsletters
+#
+# weight: 1-3. How much you trust the source. Used when rating signal strength.
+
+sources:
+  - name: Hacker News front page
+    type: rss
+    url: https://hnrss.org/frontpage?points=150
+    weight: 2
+
+  - name: Product Hunt
+    type: rss
+    url: https://www.producthunt.com/feed
+    weight: 1
+
+  - name: a16z
+    type: site
+    url: https://a16z.com/news-content/
+    weight: 2
+
+  - name: Funding rounds in our space
+    type: search
+    query: "raises seed OR series A AI marketing tool"
+    weight: 2
+
+  - name: Platform changes
+    type: search
+    query: "Instagram OR TikTok OR LinkedIn algorithm change creators"
+    weight: 3
+
+  - name: Newsletters
+    type: inbox
+    query: "label:newsletters newer_than:2d"
+    weight: 2

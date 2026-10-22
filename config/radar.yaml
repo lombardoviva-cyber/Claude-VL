@@ -1,0 +1,25 @@
+# Trend Radar configuration. Edit this file, then run /trend-radar setup.
+
+# What you are watching. Claude uses this to judge what counts as a signal.
+industry: "AI tools for marketing and content creators"
+audience: "Solo creators and small marketing teams"
+# Topics you want to see even if they are only loosely related.
+adjacent_topics:
+  - creator economy
+  - social platform algorithm changes
+  - generative video and audio
+
+# Filled in by `/trend-radar setup` after it creates the Notion databases.
+notion:
+  parent_page: ""          # Notion page URL or ID where the radar lives
+  signals_data_source: ""  # Data source ID of the Signals database
+  trends_data_source: ""   # Data source ID of the Trends database
+
+scan:
+  lookback_days: 2          # How far back to read on each daily scan
+  max_signals_per_run: 15   # Keep only the strongest; quality over volume
+  min_strength: 2           # Drop signals rated below this (1-5 scale)
+
+momentum:
+  window_days: 14           # Compare the last N days with the N days before
+  dormant_after_days: 45    # No new signals for this long -> Dormant
