@@ -2,16 +2,32 @@
 
 Base: la auditoría real de las 29 cuentas (`research/auditoria-instagram-chrome-2026-10-22.md`).
 
-## Cómo se roba bien (y por qué así funciona mejor)
+## Cómo se roba bien
 
-Se copia **la estructura**, no las palabras: el gancho como molde, el orden de los beats, el formato, la duración, el CTA. Después se escribe con tu escena, tu voz y tu humor.
+Hay dos capas, y cada una se trata distinto.
 
-Tres motivos para no cambiar solo dos o tres palabras:
-1. **Instagram distribuye contenido original.** La recomendación favorece lo original. Una casi-copia de un post viral se lee como duplicado y pierde alcance, que es justo lo que buscamos.
-2. **Tu clienta habla español y es ejecutiva.** Traducir literal un post de una creadora de 26 años en Nueva York no le habla a ella. El molde sí viaja.
-3. **Te protege.** Copiar textos ajenos casi literales expone tu reputación y la de tu marca, que es lo que estás construyendo.
+### Capa 1: gancho y plantilla → cambiar lo mínimo
 
-Con un molde probado no estás inventando la rueda: probaron otras la estructura y vos ponés el contenido.
+El gancho (los primeros 3 segundos), la plantilla visual y el audio son **el código que la gente ya reconoce**. Si lo reescribimos mucho, se pierde justo lo que lo hace funcionar. Ejemplo de Vero: el reel "I'm 52" con una frase abajo, que replicó todo el mundo. Funciona porque se reconoce la plantilla.
+
+Regla:
+- **Misma plantilla, mismo audio, misma estructura de texto en pantalla, mismo ritmo de cortes.**
+- **Traducir y cambiar solo la parte que la pone en tu nicho:** 1 a 3 palabras o un dato. "I'm 52" → "Tengo 52. Soy directora." "POV: …" queda igual, con tu escena.
+- Si el gancho original funciona en inglés y la plantilla es muy reconocible (audio o meme global), se puede dejar en inglés con subtítulo.
+
+### Capa 2: cuerpo, caption y CTA → adaptar del todo
+
+Lo que viene después del gancho es tuyo: tu escena, tu dato, tu humor, tu lección de LinkedIn, tu CTA (VOZ). Ahí es donde se nota quién sos y donde se gana la seguidora.
+
+### Lo único que no se toma
+
+- El **video** de otra persona (resubirlo es contenido no original y Instagram lo distribuye menos).
+- Su **historia personal** como si fuera tuya.
+- El texto largo del caption copiado de punta a punta.
+
+### Hipótesis sobre las 500 vistas
+
+Si veníamos adaptando mucho el gancho, el reel deja de parecerse a la plantilla que la gente ya frena a ver, y compite como contenido nuevo desde cero. Lo vamos a probar en vez de suponerlo: el sábado (Laboratorio) se publican **pares** del mismo tema, uno con el gancho casi literal y otro adaptado, y se comparan vistas, retención a 3 segundos y seguidores ganados. En 4 semanas sabemos qué funciona en tu cuenta.
 
 ## Ranking: de quién bajar el Excel de Favikon
 

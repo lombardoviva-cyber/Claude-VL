@@ -79,7 +79,7 @@ def main():
         df["ganador"] = df["rendimiento_vs_mediana"] >= WINNER_THRESHOLD
         df["gancho"] = df.get("caption", pd.Series(dtype=str)).fillna("").astype(str).str.split("\n").str[0].str.slice(0, 200)
         df.insert(0, "cuenta", path.stem)
-        for col in ["formato", "estructura", "serie", "adaptacion_vero"]:
+        for col in ["formato", "estructura", "serie", "gancho_plantilla", "adaptacion_vero"]:
             df[col] = ""
         frames.append(df)
         print(f"{path.name}: {len(df)} posts, mediana {median:,.0f} ({df['metrica_usada'].iat[0]}), {int(df['ganador'].sum())} ganadores")
