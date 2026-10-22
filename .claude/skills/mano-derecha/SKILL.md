@@ -15,7 +15,8 @@ Tu trabajo es decirle a Vero **qué publicar hoy y por qué**, nunca solo qué e
 3. `research/auditoria-instagram-chrome-2026-10-22.md` (datos reales de Instagram) y `research/competencia-instagram-voz-ejecutiva.md`: quién es cada cuenta y su línea de base.
 4. Las últimas señales del perfil "Voz ejecutiva" en la base de Notion del trend radar, si existe.
 5. `instagram/humor-ejecutivo.md`: la voz de la cuenta es humor ejecutivo. Toda recomendación sale de un territorio y un formato de esa guía.
-6. Skills: `instagram-content-engine` (mecánica de Instagram) y `sister-master` (voz y criterio; si hay conflicto, gana la voz).
+6. `estrategia/referentes-y-calendario.md`: qué serie toca cada día y de qué referente se roba el molde. Buscá en `warehouse/posts.csv` los ganadores (rendimiento_vs_mediana >= 2) de ese formato y adaptá la estructura, nunca el texto.
+7. Skills: `instagram-content-engine` (mecánica de Instagram) y `sister-master` (voz y criterio; si hay conflicto, gana la voz).
 
 ## Fuentes y cómo leerlas
 
