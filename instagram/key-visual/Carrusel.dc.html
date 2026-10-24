@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Carrusel Radar</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&amp;family=Courier+Prime:wght@400;700&amp;display=swap">
+<style>
+body{margin:0}
+</style>
+</helmet>
+<div style="width: 1440px; height: 640px; box-sizing: border-box; background: #2B2420; padding: 50px 32px; display: flex; gap: 40px; justify-content: center; font-family: 'Jost', sans-serif; color: #2B2420">
+
+<div style="width: 432px; height: 540px; box-sizing: border-box; background: #9CC9D2; padding: 16px; display: flex">
+<div style="flex-grow: 1; border: 3px double #2B2420; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 22px; text-align: center; padding: 28px">
+<div style="font-family: 'Courier Prime', monospace; font-size: 14px; letter-spacing: 3px">LUNES · RADAR N.º 1</div>
+<div style="font-size: 40px; font-weight: 700; letter-spacing: 4px; text-transform: uppercase; line-height: 1.1">Qué cambió en LinkedIn esta semana</div>
+<div style="width: 60px; height: 3px; background: #2B2420"></div>
+<div style="font-size: 17px">Explicado para ejecutivas, en 5 minutos</div>
+</div>
+</div>
+
+<div style="width: 432px; height: 540px; box-sizing: border-box; background: #F6EBD9; padding: 16px; display: flex">
+<div style="flex-grow: 1; border: 2px solid #2B2420; display: flex; flex-direction: column; gap: 18px; padding: 32px 28px">
+<div style="font-family: 'Courier Prime', monospace; font-size: 14px; letter-spacing: 3px; color: #8C2F39">EXPEDIENTE 1 DE 4</div>
+<div style="font-size: 28px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; line-height: 1.15">Top Voice se volvió más editorial</div>
+<div style="font-size: 18px; line-height: 1.5">[Qué cambió, en dos líneas, con la fuente.]</div>
+<div style="margin-top: auto; background: #9CC9D2; border: 2px solid #2B2420; padding: 14px 16px; font-size: 17px; line-height: 1.4"><strong>Para vos:</strong> [qué significa para una ejecutiva, en una línea.]</div>
+</div>
+</div>
+
+<div style="width: 432px; height: 540px; box-sizing: border-box; background: #8C2F39; padding: 16px; display: flex">
+<div style="flex-grow: 1; border: 3px double #F6EBD9; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 22px; text-align: center; padding: 28px; color: #F6EBD9">
+<div style="font-family: 'Courier Prime', monospace; font-size: 14px; letter-spacing: 3px">FIN DEL INFORME</div>
+<div style="font-size: 34px; font-weight: 700; letter-spacing: 4px; text-transform: uppercase; line-height: 1.15">Cada lunes, el radar en tu mail</div>
+<div style="font-size: 17px">Link en la bio · Radar LinkedIn</div>
+<div style="font-family: 'Courier Prime', monospace; font-size: 13px; letter-spacing: 2px">VOZ EJECUTIVA</div>
+</div>
+</div>
+
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1440,"height":640}}'>
+class Component extends DCLogic {
+renderVals() { return {}; }
+}
+</script>
+</body>
+</html>
